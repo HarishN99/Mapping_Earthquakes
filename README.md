@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Purpose
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
+The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. The project aids in the visualize the earthquake data in relation to the tectonic plates' location on the earth. All earthquakes with a magnitud greater than 4.5 were also displayed on a map. A dark mode map was also included to give the user the option to view three type sof maps: street, satellite, and dark. 
 
 ## Tasks
 To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
