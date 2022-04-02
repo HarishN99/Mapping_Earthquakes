@@ -1,12 +1,18 @@
 # Mapping_Earthquakes
 
 ## Purpose
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. The project aids in the visualize the earthquake data in relation to the tectonic plates' location on the earth. All earthquakes with a magnitud greater than 4.5 were also displayed on a map. A dark mode map was also included to give the user the option to view three type sof maps: street, satellite, and dark. 
+This project intends to visualize the earthquake data in relation to the tectonic plates' location on the earth. All earthquakes with a magnitude greater than 4.5 were also displayed on a map. A dark mode map was also included to give the user the option to view three type sof maps: street, satellite, and dark. The project involves using the d3 library and JavaScript with the URL for GeoJSON earthquake data.
 
-## Tasks
-To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
+![drop](https://user-images.githubusercontent.com/94864663/161405349-bef729fc-e0f8-4d86-899a-c9d3afdfc0c9.png)
 
-## Approach
-Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
-Now that you have an overview of the project plan, let's set up a Mapbox account and get the API token you'll need to create geographical maps.
+### Street Map
+![street](https://user-images.githubusercontent.com/94864663/161405352-4870e719-a830-43c0-a9af-ae545546639f.png)
+
+
+### Satellite Map
+![satellite](https://user-images.githubusercontent.com/94864663/161405355-8c434d59-96ce-446a-ada5-a10704fb3b5a.png)
+
+### Dark Map
+![dark](https://user-images.githubusercontent.com/94864663/161405359-cbc08331-8ca2-4c54-ad85-3acb752b7707.png)
+
